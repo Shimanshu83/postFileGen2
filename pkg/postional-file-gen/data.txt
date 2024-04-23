@@ -1,0 +1,2 @@
+     John              30New York                           
+     Alice             25Los Angeles                        
